@@ -8,11 +8,11 @@
 		<version>2.6.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>registro_notas</artifactId>
+	<groupId>com.api</groupId>
+	<artifactId>registroNotas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>registro_notas</name>
-	<description>API para app web de registro de notas</description>
+	<name>registroNotas</name>
+	<description>API para la aplicacion web registro notas</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
